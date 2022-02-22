@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👋 Hi, I’m Joël Plambeck
+🌱 I’m currently studying IT at ZHAW
+😃 I speak 🇨🇭🇩🇪🇺🇸🇪🇸
+🏑 I like to do sports
