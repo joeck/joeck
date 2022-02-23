@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently studying Cupmuter Science at ZHAW
 - 😃 I speak 🇨🇭🇩🇪🇺🇸🇪🇸
 - 🏑 I like to do sports
+- ⚡ Fun fact: My OOO auto-responder and I never work at the same time
