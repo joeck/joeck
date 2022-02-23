@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 - 😃 I speak 🇨🇭🇩🇪🇺🇸🇪🇸
 - 🏑 I like to do sports
 - ⚡ Fun fact: My OOO auto-responder and I never work at the same time
+
+### My stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joeck&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
