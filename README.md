@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **joeck/joeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/oBYB0gqUy3xxBf89aT/giphy.gif" width="100"/>
+</div>
+
+### Hi there 👋
 
 - 👋 Hi, I’m Joël Plambeck
 - 📍 Zurich, Switzerland
