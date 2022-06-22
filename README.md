@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 👋 Hi, I’m Joël Plambeck
-- 📍 Zurich, Switzerland
+- 👋 Hello, I’m Joël Plambeck
+- 📍 Zurich, Switzerland 🇨🇭
 - 🌱 I’m currently studying Cupmuter Science at ZHAW
 - 😃 I speak 🇨🇭🇩🇪🇺🇸🇪🇸
 - 🏑 I like to do sports
